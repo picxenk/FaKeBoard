@@ -1,6 +1,9 @@
+[gimmick:ForkMeOnGitHub(color:'orange')](http://www.github.com/picxenk/FaKeBoard)
+
 # 화.개. 보드 <Fa.Ke. Board> #
 CC-SA-BY 김승범<picxenk@gmail.com>
 
+## 화.개.보드는...
 화.개.보드는 디지털과 아날로그, 하드웨어와 소프트웨어, 기계와 인간, 
 그 양쪽 경계에서 구별하기 어렵게 (어설프게) 자리 잡고 있는 
 오픈소스 (혹은 덜 오픈소스) 하드웨어 플랫폼입니다.
@@ -15,7 +18,8 @@ CC-SA-BY 김승범<picxenk@gmail.com>
 (* 화개 _ 꽃받침과 꽃부리를 외관상으로 구별하기 어려운 경우에 이 둘을 아울러 이르는 말)
 
 
-## 창작자 : 김승범 ##
+----
+## 창작자 : 김승범
 
 생명과학을 전공했으나 앨런 케이 (Alan Kay)를 만나고 
 엔드유저를 위한 컴퓨팅 환경에 대해 고민하기 시작했다. 
