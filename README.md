@@ -1,8 +1,11 @@
 [gimmick:ForkMeOnGitHub(color:'orange')](http://www.github.com/picxenk/FaKeBoard)
 
-# 화.개. 보드 <Fa.Ke. Board> #
+# Fa.Ke.Board : 화.개. 보드
+![](http://xenbio.net/images/fakeboard_top.jpg 'Fa.Ke.Board')
+
 CC-SA-BY 김승범<picxenk@gmail.com>
 
+----
 ## 화.개.보드는...
 화.개.보드는 디지털과 아날로그, 하드웨어와 소프트웨어, 기계와 인간, 
 그 양쪽 경계에서 구별하기 어렵게 (어설프게) 자리 잡고 있는 
