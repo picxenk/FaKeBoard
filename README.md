@@ -1,9 +1,7 @@
-[gimmick:ForkMeOnGitHub(color:'orange')](http://www.github.com/picxenk/FaKeBoard)
-
 # Fa.Ke.Board : 화.개. 보드
 ![](http://xenbio.net/images/fakeboard_top.jpg 'Fa.Ke.Board')
-
-CC-SA-BY 김승범<picxenk@gmail.com>
+ * http://xenbio.net/mdwiki/#!fakeboard.md
+ * CC-SA-BY 김승범<picxenk@gmail.com>
 
 ----
 ## 화.개.보드는...
